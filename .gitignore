@@ -1,0 +1,26 @@
+# OS/system files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.Spotlight-V100
+.Trashes
+._*
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# Log files
+*.log
+npm-debug.log*
+
+# Node dependencies (for future use)
+node_modules/
+
+# Extension build/package files
+*.crx
+*.pem
+*.zip
+*.tar.gz
+*.rar
