@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Calculator",
+  "version": "1.0",
+  "description": "A simple, modern calculator for your browser popup.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
